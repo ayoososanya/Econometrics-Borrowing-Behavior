@@ -1,6 +1,6 @@
 #  Borrowing Behaviour Analysis: The Role of Income and Homeownership
 
-This project investigates how income levels and homeownership status influence borrowing behaviour—specifically loan amounts and loan purposes—using statistical modelling and data visualisation.
+This project examines how income levels and homeownership status affect borrowing behaviour—specifically, loan amounts and loan purposes—using statistical modelling and data visualisation.
 
 ---
 
@@ -62,7 +62,7 @@ Modelled the probability of choosing specific loan purposes based on:
 - Income  
 - Homeownership  
 
-Statistical assumptions such as multicollinearity, normality, homoscedasticity, and IIA were tested and addressed.
+Statistical assumptions, including multicollinearity, normality, homoscedasticity, and IIA, were tested and addressed.
 
 ---
 
@@ -83,7 +83,7 @@ Statistical assumptions such as multicollinearity, normality, homoscedasticity, 
 
 ---
 
-## ⚖ Limitations
+##  Limitations
 
 - Cross-sectional dataset limits causal inference
 - Omitted variables (e.g., credit scores, employment type)
